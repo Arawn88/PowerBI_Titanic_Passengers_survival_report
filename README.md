@@ -28,3 +28,6 @@ Grafickou vizualizaci dat, která pomůže lépe porozumět vztahům mezi promě
 Závěr:
 
 Analýza přežití pasažérů lodi Titanic má historický, kulturní a výzkumný význam. Tento projekt se snaží hlouběji porozumět faktorům, které hrály roli při této tragédii.
+
+Odkaz na projekt:
+https://app.powerbi.com/links/t41gV1DUKR?ctid=705cf2d0-0f0a-4cdb-b473-e7b7b8b2a26f&pbi_source=linkShare
