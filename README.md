@@ -14,7 +14,11 @@ Zhodnotit význam jednotlivých faktorů a jejich vliv na přežití pasažérů
 
 Metodologie:
 
-Tato analýza bude prováděna na základě datasetu obsahujícího informace o pasažérech lodi Titanic, včetně jejich věku, pohlaví, přítomnosti rodiny na palubě a dalších relevantních proměnných. Poté budou použita dodatečná data, jako je místo nástupu a číselník třídy jízdenky.
+Tato analýza bude prováděna na základě datasetu obsahujícího informace o pasažérech lodi Titanic, včetně jejich věku, pohlaví, přítomnosti rodiny na palubě a dalších relevantních proměnných.
+https://hatfullofdata.blog/wp-content/uploads/2020/10/titanicdata.csv
+
+Poté budou použita dodatečná data, kde dostaneme informace o místě nástupu a číselník třídy jízdenky.
+https://hatfullofdata.blog/wp-content/uploads/2020/10/TitanicLocations.xlsx
 
 Očekávané výstupy:
 
