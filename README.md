@@ -3,6 +3,7 @@
 Analýza přežití pasažérů lodi Titanic
 
 Úvod:
+
 Titanic, slavný britský luxusní parník, který se potopil na své první plavbě v roce 1912, je jedním z nejznámějších námořních katastrof v dějinách. Tato tragédie si vyžádala mnoho životů a dodnes je předmětem zájmu vědců, historiků a datových analytiků. Tento projekt se zaměřuje na analýzu dat o pasažérech lodi Titanic, s cílem porozumět faktorům, které ovlivnily jejich šance na přežití.
 
 Cíle projektu:
